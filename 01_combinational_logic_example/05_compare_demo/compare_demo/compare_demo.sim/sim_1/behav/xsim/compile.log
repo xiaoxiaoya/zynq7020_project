@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yando/Desktop/driver/FPGA/01_combinational_logic_example/05_compare_demo/compare_demo/compare_demo.srcs/sources_1/new/compare_demo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compare_demo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yando/Desktop/driver/FPGA/01_combinational_logic_example/05_compare_demo/compare_demo/compare_demo.srcs/sim_1/new/tb_compare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_compare
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/yando/Desktop/driver/FPGA/01_combinational_logic_example/05_compare_demo/compare_demo/compare_demo.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
